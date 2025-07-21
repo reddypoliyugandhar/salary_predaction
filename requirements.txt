@@ -1,0 +1,18 @@
+Flask
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn 
+shap
+joblib
+Werkzeug
+Jinja2
+MarkupSafe
+click
+itsdangerous
+gunicorn
+# Essential build tools
+setuptools==68.1.2
+wheel==0.41.3
+pip==23.3.1
